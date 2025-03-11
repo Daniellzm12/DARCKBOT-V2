@@ -1,6 +1,6 @@
 
 
-    <h1 style="text-align: center;">DARCK~BOT</h1>
+    <h1>DARCK~BOT</h1>
    <p> Exploitez la puissance de<b> DARCK</b> spécialisé dans le traitement du langage naturel et l'analyse sémantique🖥.<br> Il vous permet de comprendre les nuances de chaque texte, d'identifier les sentiments exprimés et d'extraire les informations clés<br>
  Darck est bien plus qu'un simple bot : c'est votre partenaire stratégique pour naviguer dans un monde de données en constante évolution.<br> Il vous offre des insights clairs et pertinents pour optimiser vos opérations et maximiser votre impact💻.<br> Made by
  <b>DARCK~CREATOR</b> </p>
