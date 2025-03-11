@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<head>
-    <meta charset="UTF-8">
-    <title>Github darck bot</title>
+
     <style>
         body {
             font-family: Georgia, serif;
@@ -44,7 +41,7 @@
     }
  
 </style>
-</head>
+
 <body> 
     <img src="content://media/external/images/media/230051" width="350" alt="">
     <h1 style="text-align: center;">DARCK~BOT</h1>
